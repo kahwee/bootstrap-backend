@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-complex",
+  "version": "0.0.0",
+  "description": "Same old bootstrap but for complex applications for complex reasons.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kahwee/bootstrap-complex.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "835d5a712efa29ee84a3fb0a244caf5c248019ca",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.5.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-cssmin": "~0.5.0"
+  }
+}
