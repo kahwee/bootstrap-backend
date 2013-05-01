@@ -5259,6 +5259,10 @@ a.badge:focus {
   background: #eeeeee;
   height: 100%;
 }
+#sidebar .nav-list > li > a,
+#sidebar .nav-header {
+  padding-left: 20px;
+}
 #main {
   margin-left: 240px;
 }

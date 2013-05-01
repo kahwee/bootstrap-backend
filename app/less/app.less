@@ -1,4 +1,3 @@
-
 @import "../../components/bootstrap/less/bootstrap.less";
 
 @sidebarWidth: 240px;
@@ -7,6 +6,9 @@
 	margin: -@gridGutterWidth;
 	background: @grayLighter;
 	height: 100%;
+	.nav-list > li > a, .nav-header {
+		padding-left: @gridGutterWidth;
+	}
 }
 #main {
 	margin-left: @sidebarWidth;
