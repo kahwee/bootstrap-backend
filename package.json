@@ -2,7 +2,7 @@
   "name": "bootstrap-complex",
   "version": "0.0.0",
   "description": "Same old bootstrap but for complex applications for complex reasons.",
-  "main": "Gruntfile.js",
+  "main": "app/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
