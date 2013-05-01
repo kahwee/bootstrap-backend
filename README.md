@@ -1,7 +1,10 @@
 bootstrap-complex
 =================
 
-This example uses Bootstrap 2.3.1 to create a left sidebar that is with a fixed position. Bootstrap's nav-list is used to achieve this.
+This example uses Bootstrap 2.3.1 to create a left sidebar that is with a fixed position. 
+Bootstrap's nav-list is used to achieve this.
+
+This is intended as a reference project. Please fork it for your own usage.
 
 ### Preview It
 
