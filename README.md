@@ -1,4 +1,4 @@
-bootstrap-complex
+bootstrap-backend
 =================
 
 This example uses Bootstrap 2.3.1 to create a left sidebar that is with a fixed position. 
