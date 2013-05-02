@@ -1,5 +1,9 @@
 @import "../../components/bootstrap/less/bootstrap.less";
 
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
 @sidebarWidth: 240px;
 #sidebar {
 	width: @sidebarWidth;
@@ -12,4 +16,18 @@
 }
 #main {
 	margin-left: @sidebarWidth;
+}
+.table tbody h5 {
+	margin-top: 0;
+}
+.ellipsis {
+	.text-overflow();
+	max-width: 600px;
+}
+.alert-inline {
+	&.error {
+		background: @errorText;
+		color: @white;
+	}
+	padding: .1em .3em;
 }

@@ -5253,6 +5253,10 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
 #sidebar {
   width: 240px;
   margin: -20px;
@@ -5265,4 +5269,20 @@ a.badge:focus {
 }
 #main {
   margin-left: 240px;
+}
+.table tbody h5 {
+  margin-top: 0;
+}
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 600px;
+}
+.alert-inline {
+  padding: .1em .3em;
+}
+.alert-inline.error {
+  background: #b94a48;
+  color: #ffffff;
 }
