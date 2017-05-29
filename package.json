@@ -15,9 +15,9 @@
   "readmeFilename": "README.md",
   "gitHead": "835d5a712efa29ee84a3fb0a244caf5c248019ca",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-less": "~0.5.0",
-    "grunt-contrib-watch": "~0.3.1",
-    "grunt-contrib-cssmin": "~0.5.0"
+    "grunt": "~1.0.1",
+    "grunt-contrib-less": "~1.4.1",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-cssmin": "~2.2.0"
   }
 }
