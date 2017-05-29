@@ -1,6 +1,8 @@
 bootstrap-backend
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kahwee/bootstrap-backend.svg)](https://greenkeeper.io/)
+
 This example uses Bootstrap 2.3.1 to create a left sidebar that is with a fixed position. 
 Bootstrap's nav-list is used to achieve this.
 
